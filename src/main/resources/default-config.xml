@@ -21,7 +21,7 @@
                         <property name="addresses">
                             <list>
                                 <!-- <value>127.0.0.1:47500..47509</value> -->
-                                <value>iris-poc-service:47100</value>
+                                <value>iris-poc-service:11211</value>
                             </list>
                         </property>
                     </bean>
